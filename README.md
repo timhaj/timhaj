@@ -1,4 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/timhaj?label=Follow&style=social)](https://github.com/timhaj) 
+<img src="https://komarev.com/ghpvc/?username=timhaj&style=flat-square&color=orange&abbreviated=true&label=PROFILE+VIEWS" alt=""/>
 ## Hey, I'm Tim Hajdinjak 🗿👋
 - Currently a CS Freshman at the [University of Ljubljana](https://fri.uni-lj.si/en).
 - If you find any of my repositories useful, consider starring it, it's free!
