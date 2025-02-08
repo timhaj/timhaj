@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </a>
 
 ## Proficient with the following skills & tools
-[![Most proficient](https://skillicons.dev/icons?i=cpp,python,tailwind,mysql,postgresql,git,vscode,md,latex,bash,bootstrap,c,blender,css,django,html,js,java,jquery,laravel,maven,npm,php,r,react,sass,ts,unreal,vim)](https://skillicons.dev)
+[![Most proficient](https://skillicons.dev/icons?i=cpp,python,tailwind,mysql,postgresql,git,vscode,md,latex,bash,bootstrap,c,blender,css,django,html,js,java,jquery,laravel,maven,npm,php,r,react,sass,ts,unreal,vim,arduino,azure,cs,cmake,django,docker,dotnet,postman,selenium)](https://skillicons.dev)
 
